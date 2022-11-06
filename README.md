@@ -25,5 +25,6 @@ npm run build
 ```
 
 ## Docker Images 
-- `Backend Django Image` is located at (Docker Hub)[https://hub.docker.com/repository/docker/mfon01/backend]
--`Frontend React Image` is located at (Docker Hub)[https://hub.docker.com/repository/docker/mfon01/fronty]
+- `Backend Django Image` is located at [Docker Hub](https://hub.docker.com/repository/docker/mfon01/backend)
+
+-`Frontend React Image` is located at [Docker Hub](https://hub.docker.com/repository/docker/mfon01/fronty)
